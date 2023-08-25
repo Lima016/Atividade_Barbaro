@@ -1,0 +1,8 @@
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\obj\Debug\AtividadeCORUJA.csproj.AssemblyReference.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\obj\Debug\AtividadeCORUJA.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\obj\Debug\AtividadeCORUJA.csproj.CoreCompileInputs.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\bin\Debug\AtividadeCORUJA.exe.config
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\bin\Debug\AtividadeCORUJA.exe
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\bin\Debug\AtividadeCORUJA.pdb
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\obj\Debug\AtividadeCORUJA.exe
+C:\Users\breno.mltimoteo\source\repos\AtividadeCORUJA\AtividadeCORUJA\obj\Debug\AtividadeCORUJA.pdb
