@@ -1,0 +1,8 @@
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\bin\Debug\BossUnicornio.exe.config
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\bin\Debug\BossUnicornio.exe
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\bin\Debug\BossUnicornio.pdb
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\obj\Debug\BossUnicornio.csproj.AssemblyReference.cache
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\obj\Debug\BossUnicornio.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\obj\Debug\BossUnicornio.csproj.CoreCompileInputs.cache
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\obj\Debug\BossUnicornio.exe
+C:\Users\breno.mltimoteo\source\repos\BossUnicornio\BossUnicornio\obj\Debug\BossUnicornio.pdb
