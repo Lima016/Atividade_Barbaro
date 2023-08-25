@@ -1,0 +1,8 @@
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\bin\Debug\AtividadeAguia.exe.config
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\bin\Debug\AtividadeAguia.exe
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\bin\Debug\AtividadeAguia.pdb
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\obj\Debug\AtividadeAguia.csproj.AssemblyReference.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\obj\Debug\AtividadeAguia.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\obj\Debug\AtividadeAguia.csproj.CoreCompileInputs.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\obj\Debug\AtividadeAguia.exe
+C:\Users\breno.mltimoteo\source\repos\AtividadeAguia\AtividadeAguia\obj\Debug\AtividadeAguia.pdb
