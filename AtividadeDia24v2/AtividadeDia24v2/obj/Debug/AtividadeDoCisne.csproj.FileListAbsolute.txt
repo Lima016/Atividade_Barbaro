@@ -1,0 +1,8 @@
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\bin\Debug\AtividadeDia24v2.exe.config
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\bin\Debug\AtividadeDia24v2.exe
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\bin\Debug\AtividadeDia24v2.pdb
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\obj\Debug\AtividadeDoCisne.csproj.AssemblyReference.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\obj\Debug\AtividadeDoCisne.csproj.SuggestedBindingRedirects.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\obj\Debug\AtividadeDoCisne.csproj.CoreCompileInputs.cache
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\obj\Debug\AtividadeDia24v2.exe
+C:\Users\breno.mltimoteo\source\repos\AtividadeDia24v2\AtividadeDia24v2\obj\Debug\AtividadeDia24v2.pdb
